@@ -1,0 +1,68 @@
+post_id,title,category,score,num_comments,author,collected_at
+47750872,Servo is now available on crates.io,technology,135,37,ffin,2026-04-13 15:12:08
+47748064,The economics of software teams: Why most engineering orgs are flying blind,technology,299,158,kiyanwang,2026-04-13 15:12:10
+47750821,Michigan 'digital age' bills pulled after privacy concerns raised,technology,85,37,iamnothere,2026-04-13 15:12:11
+47751032,"AI could be the end of the digital wave, not the next big thing",technology,134,165,surprisetalk,2026-04-13 15:12:15
+47750259,Point Cloud Allemansrätten,technology,30,4,ColinWright,2026-04-13 15:12:16
+47719490,I gave every train in New York an instrument,technology,342,68,joshuawolk,2026-04-13 15:12:16
+47749674,Show HN: I built a social media management tool in 3 weeks with Claude and Codex,technology,131,89,JanSchu,2026-04-13 15:12:16
+47738883,Tell HN: Docker pull fails in Spain due to football Cloudflare block,technology,1042,379,littlecranky67,2026-04-13 15:12:17
+47738978,"We have a 99% email reputation, but Gmail disagrees",technology,311,272,em-bee,2026-04-13 15:12:18
+47747017,"Apple's accidental moat: How the ""AI Loser"" may end up winning",technology,329,286,walterbell,2026-04-13 15:12:18
+47744255,I ran Gemma 4 as a local model in Codex CLI,technology,155,70,dvaughan,2026-04-13 15:12:18
+47733217,Exploiting the most prominent AI agent benchmarks,technology,552,134,Anon84,2026-04-13 15:12:19
+47751265,Rockstar hackers set to release GTA 6 data breach as 'demands not met',technology,9,3,01-_-,2026-04-13 15:12:23
+47749222,"Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",technology,57,46,LostMyLogin,2026-04-13 15:12:24
+47738864,Why AI Sucks at Front End,technology,95,130,tobr,2026-04-13 15:12:28
+47743819,Basics of Radar Technology,technology,33,0,_Microft,2026-04-13 15:12:29
+47741531,"Bouncer: Block ""crypto"", ""rage politics"", and more from your X feed using AI",technology,51,97,steveharing1,2026-04-13 15:12:31
+47741889,Show HN: Claudraband – Claude Code for the Power User,technology,113,39,halfwhey,2026-04-13 15:12:31
+47736555,I run multiple $10K MRR companies on a $20/month tech stack,technology,907,490,tradertef,2026-04-13 15:12:33
+47752402,Mark Zuckerberg is reportedly building an AI clone to replace him in meetings,technology,36,47,temphaaa,2026-04-13 15:12:33
+47745120,Tech valuations are back to pre-AI boom levels,technology,142,39,akyuu,2026-04-13 15:12:34
+47743700,European AI. A playbook to own it,technology,192,119,hjouneau,2026-04-13 15:12:35
+47752301,Booking.com warns customers of hack that exposed their data,technology,5,0,Brajeshwar,2026-04-13 15:12:36
+47734878,High-Level Rust: Getting 80% of the Benefits with 20% of the Pain,technology,74,91,maxloh,2026-04-13 15:12:38
+47727960,Show HN: Pardonned.com – A searchable database of US Pardons,technology,490,264,vidluther,2026-04-13 15:12:39
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",worldnews,433,274,neversaydie,2026-04-13 15:13:22
+47745261,Vegetative Patients May Be More Aware Than We Knew,worldnews,34,13,bookofjoe,2026-04-13 15:13:31
+47745230,Sam Altman's home targeted in second attack,worldnews,136,303,babelfish,2026-04-13 15:13:34
+47721946,JSON formatter Chrome plugin now closed and injecting adware,worldnews,284,135,jkl5xx,2026-04-13 15:13:46
+47729994,Polymarket gamblers betting millions on war,worldnews,158,126,sandebert,2026-04-13 15:14:25
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,392,367,chabons,2026-04-13 15:14:30
+47693960,Flashback to a time when government reports were works of art,worldnews,30,12,NaOH,2026-04-13 15:14:35
+47741460,How long-distance couples use digital games to facilitate intimacy (2025),sports,119,37,radeeyate,2026-04-13 15:14:59
+47749295,Show HN: Equirect – a Rust VR video player,sports,6,0,greggman65,2026-04-13 15:15:01
+47747248,"Haunt, the 70s text adventure game, is now playable on a website",sports,74,22,jscalo,2026-04-13 15:15:05
+47698455,Starfling: A one-tap endless orbital slingshot game in a single HTML file,sports,618,152,iceberger2001,2026-04-13 15:15:17
+47698111,Bevy game development tutorials and in-depth resources,sports,137,58,GenericCanadian,2026-04-13 15:15:24
+47713495,Team from ETH Zurich make high quality quantum swap gate using a geometric phase,sports,236,55,joko42,2026-04-13 15:15:31
+47737387,Show HN: Bullseye2D – A Dart library for cross-platform 2D games,sports,4,0,joemanaco,2026-04-13 15:16:22
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,118,36,pruz,2026-04-13 15:16:30
+47704430,Can It Resolve Doom? Game Engine in 2k DNS Records,sports,10,2,choult,2026-04-13 15:16:34
+47738343,The Physics of GPS,science,146,34,maouida,2026-04-13 15:17:06
+47745543,New metal with triple copper's heat conduction challenges fundamental physics,science,28,10,thunderbong,2026-04-13 15:17:24
+47701769,The Bra-and-Girdle Maker That Fashioned the Impossible for NASA,science,133,19,sohkamyung,2026-04-13 15:17:32
+47728323,Relics of the Heroic Age of Manned Space Flight,science,20,1,zdgeier,2026-04-13 15:17:34
+47708818,Native Instant Space Switching on macOS,science,639,323,PaulHoule,2026-04-13 15:17:46
+47742200,Show HN: boringBar – a taskbar-style dock replacement for macOS,entertainment,443,247,a-ve,2026-04-13 15:18:48
+47739174,Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card),entertainment,216,66,Rochus,2026-04-13 15:18:52
+47741393,Textbooks and Methods of Note-Taking in Early Modern Europe (2008),entertainment,46,0,mooreds,2026-04-13 15:19:02
+47724352,Filing the corners off my MacBooks,entertainment,1380,657,normanvalentine,2026-04-13 15:19:05
+47745300,Show HN: A social feed with no strangers,entertainment,8,3,rpatni,2026-04-13 15:19:23
+47733066,New synthesis of astronomical measurements shows Hubble tension is real,entertainment,74,14,anigbrowl,2026-04-13 15:19:27
+47721997,Show HN: FluidCAD – Parametric CAD with JavaScript,entertainment,154,37,maouida,2026-04-13 15:19:36
+47699470,The Life and Death of the Book Review,entertainment,30,7,lermontov,2026-04-13 15:19:51
+47722011,Show HN: A WYSIWYG word processor in Python,entertainment,86,39,chrisecker,2026-04-13 15:19:52
+47721255,Show HN: Eve – Managed OpenClaw for work,entertainment,71,39,zachdive,2026-04-13 15:19:55
+47705413,Show HN: I built a Cargo-like build tool for C/C++,entertainment,173,166,randerson_112,2026-04-13 15:19:56
+47730522,Show HN: Waffle – Native macOS terminal that auto-tiles sessions into a grid,entertainment,38,20,olleeolleeollee,2026-04-13 15:19:57
+47736071,The Universal Standard Book Number,entertainment,13,4,novalis78,2026-04-13 15:19:58
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",entertainment,48,25,behat,2026-04-13 15:19:59
+47715339,Show HN: Keeper – embedded secret store for Go (help me break it),entertainment,63,33,babawere,2026-04-13 15:20:15
+47733479,Show HN: A Better Internet,entertainment,10,3,tclancy,2026-04-13 15:20:24
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,147,158,latchkey,2026-04-13 15:20:31
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,62,12,rvitorper,2026-04-13 15:20:36
+47710835,"Show HN: Rust based eBook library for Python, with MIT license",entertainment,33,3,larry-the-agent,2026-04-13 15:20:37
+47696562,Show HN: Is Hormuz open yet?,entertainment,482,209,anonfunction,2026-04-13 15:20:38
+47704259,"Show HN: Guruka.com – free guided mediations. No signup, private, works offline",entertainment,39,16,eummm,2026-04-13 15:20:39
